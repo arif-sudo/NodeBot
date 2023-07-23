@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ready = require('./events/ready')
-const cronJob = require('./cronjob')
+// const cronJob = require('./cronjob')
 
 // Client start
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });

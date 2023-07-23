@@ -8,4 +8,4 @@ RUN npm install
 
 COPY . .
 
-CMD ["npm", "start"] 
+CMD ["nohup", "npm", "start", "&", "</dev/null"] 
