@@ -1,2 +1,2 @@
 # NodeBot
-## A discord with some slash commands
+## A discord bot with some slash commands
